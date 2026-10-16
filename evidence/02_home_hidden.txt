@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Oct 16 04:39 .
+drwxr-xr-x 3 root              root              4096 Sep 13 17:02 ..
+-rw------- 1 ayeshamaqsoodawan ayeshamaqsoodawan 1883 Oct  9 09:19 .bash_history
+-rw-r--r-- 1 ayeshamaqsoodawan ayeshamaqsoodawan  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 ayeshamaqsoodawan ayeshamaqsoodawan 3771 Feb 13  2026 .bashrc
+drwx------ 2 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Sep 13 17:18 .cache
+-rw-rw-r-- 1 ayeshamaqsoodawan ayeshamaqsoodawan  196 Oct 16 04:35 .gitconfig
+drwx------ 3 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Oct  8 07:58 .local
+-rw-r--r-- 1 ayeshamaqsoodawan ayeshamaqsoodawan  807 Feb 13  2026 .profile
+drwx------ 2 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Sep 18 05:46 .ssh
+drwxrwxr-x 3 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Oct  9 09:29 Assignment01
+drwxrwxr-x 3 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Sep 18 05:45 CC_Lab2_Practice
+drwxrwxr-x 3 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Oct  8 06:12 Gitea
+drwxrwxr-x 5 ayeshamaqsoodawan ayeshamaqsoodawan 4096 Oct 16 04:40 lab05-linux
